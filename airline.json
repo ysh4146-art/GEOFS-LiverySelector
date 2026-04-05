@@ -1,14 +1,14 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Maldivian",
+    "color": "White",
+    "bgcolor": "Red",
     "aircrafts": {
         "1": {
-            "name": "Piper J3 Cub",
-            "liveries": [
+            "name": "ATR 42-600",
+            "liveries": [maldivian
             ],
-            "labels": [
-                "Texture"
+            "labels": [8Q-IAX
+                "Calibri (Body)"
             ]
         },
         "2": {
